@@ -3,7 +3,7 @@
   
   - Web Developer  👩🏿‍💻
   - Technology lover 😍
-  - From Rio de Janeiro, Brazil  🇧🇷
+  - From Rio de Janeiro, Brazil 🇧🇷
   - Backend Specialist python, node.js and php ⌨️
   - My Website - [Felipe Mateus](http://felipemateus.com/)
 
