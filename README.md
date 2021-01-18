@@ -4,7 +4,7 @@
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=eufelipemateus&show_icons=false)](https://github.com/eufelipemateus) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipemateus&layout=compactd)](https://github.com/eufelipemateus) |
+| [![Github stats](https://github-readme-stats.vercel.app/api?username=eufelipemateus&show_icons=true)](https://github.com/eufelipemateus) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eufelipemateus&layout=compact)](https://github.com/eufelipemateus) |
 
 
 
