@@ -6,6 +6,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eufelipemateus)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/eufelipemateus)
 [<img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eufelipemateus)
+[<img src="https://img.shields.io/badge/Pixelfed-000000?style=for-the-badge&logo=pixelfed&logoColor=white" />](https://pixelfed.com.br/eufelipemateus)
 
 ## 👨‍💻 Sobre Mim
 Desenvolvedor **Full Stack** apaixonado por backend, baseado no Rio de Janeiro. Com vasta experiência em **Python, Node.js e PHP (Laravel)**, foco na criação de sistemas escaláveis, automações e soluções web de alta performance. 
