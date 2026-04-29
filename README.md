@@ -27,11 +27,6 @@ Para desenvolver soluções escaláveis e com facil manutenção, trabalho com a
 
 ## 🚀 Projetos em Destaque
 
-### 🀄 [Domino Game](https://github.com/eufelipemateus/domino-game)
-Desenvolvimento de um motor de jogo de dominó multiplayer em tempo real utilizando **Socket.io** e Node.js. Envolve modelagem de estado do jogo, sincronização em tempo real entre jogadores e gerenciamento de conexões simultâneas via WebSockets.
-
-[Dominó Multiplayer jogo online - Post](https://felipemateus.com/blog/2017/06/domino)
-
 ### 📺 [Laravel IPTV CMS](https://github.com/eufelipemateus/laravel-iptv-cms)
 Um sistema de gerenciamento de conteúdo (CMS) robusto para serviços de IPTV, construído com o framework **Laravel**. Foco em arquitetura MVC e gestão de dados complexos.
 
